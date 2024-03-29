@@ -6,6 +6,12 @@ This README provides an overview of Amazon Web Services (AWS) and its significan
 
 ## What is Cloud Computing?
 
+Cloud computing is defined as the use of hosted services, such as data storage, servers, databases, networking, and software over the internet.
+
+The data is stored on physical servers, which are maintained by a cloud service provider. 
+
+Computer system resources, especially data storage and computing power, are available on-demand, without direct management by the user in cloud computing.
+
 **Definition:** Cloud computing is like renting resources, such as storage space or computing power, over the internet instead of owning them outright. Instead of buying and maintaining physical servers or other infrastructure, you can access these resources as needed from a cloud service provider.
 
 **Characteristics of cloud computing:**
@@ -21,6 +27,8 @@ This README provides an overview of Amazon Web Services (AWS) and its significan
 3. **Software as a Service (SaaS):** Delivers software applications over the internet on a subscription basis, eliminating the need for users to install, maintain, and update the software locally.
 
 ## What is AWS?
+
+** Amazon Web Services (AWS) is an on-demand cloud computing solution provided by Amazon, which includes 200+ services, platforms, and application programming interfaces
 
 **Overview:** AWS is a comprehensive cloud computing platform offered by Amazon.com. It provides a wide range of services, including computing power, storage, databases, machine learning, analytics, and more. These services are available on a pay-as-you-go basis, meaning you only pay for what you use without any long-term contracts.
 
